@@ -1,0 +1,62 @@
+{
+    "user1": {
+        "userID": 1,
+        "userInfo": {
+            "age": 26,
+            "height": 183,
+            "weight": 67,
+            "typesPrefered": ["chinese"],
+            "spicePreference": "normal",
+            "priceRange": [50, 275],
+            "ratings": [1, 2, 3, 4]
+        },
+        "name": "Jake Dorsey",
+        "email": "jake@example.com",
+        "gender": "male",
+        "phoneNumber": "978-295-1662",
+        "medicalHistory": {
+            "choronicConditions": ["asthma", "diabetes"],
+            "alergics": ["peanuts", "soy"]
+        }
+    },
+    "user2": {
+        "userID": 2,
+        "userInfo": {
+            "age": 19,
+            "height": 170,
+            "weight": 60,
+            "typesPrefered": ["korean"],
+            "spicePreference": "extreme",
+            "priceRange": [50, 150],
+            "ratings": [1, 2, 3, 4]
+        },
+        "name": "Susan Allen",
+        "email": "susan@example.com",
+        "gender": "female",
+        "phoneNumber": "928-707-4334",
+        "medicalHistory": {
+            "choronicConditions": [],
+            "alergics": ["eggs"]
+        }
+    },
+    "user3": {
+        "userID": 3,
+        "userInfo": {
+            "age": 23,
+            "height": 180,
+            "weight": 71,
+            "typesPrefered": ["noodles", "appetizers"],
+            "spicePreference": "normal",
+            "priceRange": [100, 300],
+            "ratings": [1, 2, 3, 4]
+        },
+        "name": "Haylee Ruth",
+        "email": "haylee@example.com",
+        "gender": "female",
+        "phoneNumber": "787-640-3138",
+        "medicalHistory": {
+            "choronicConditions": ["diabetes"],
+            "alergics": []
+        }
+    }
+}

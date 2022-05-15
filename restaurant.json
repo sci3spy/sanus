@@ -1,0 +1,78 @@
+{
+  "name": "restaurnatX",
+  "type": "",
+  "dishes": {
+    "dish1": {
+      "dishID": 1,
+      "name": "Honey-Soy Salmon",
+      "components": {
+        "salmon": [
+          "soy", "honey",
+          "garlic powder", "salmon fillet",
+          "olive oil", "butter"
+        ]
+      },
+      "nutritionValues": {
+        "calories": 228,
+        "protein": 24.8,
+        "carbs": 9.5,
+        "fat": 9.8,
+        "fibers": 0.1,
+        "minerals": 970
+      },
+      "ratings": [1, 2, 3, 4],
+      "tags": ["fish", "salmon"],
+      "Price": 120
+    },
+    "dish2": {
+      "dishID": 2,
+      "name": "Ranch chicken Macaroni Salad",
+      "components": {
+        "salad": [
+          "macaroni", "celery",
+          "green olives", "mayonnaise",
+          "sour cream", "milk", "chicken",
+          "paprika", "ranch mix"
+        ]
+      },
+      "nutritionValues": {
+        "calories": 393,
+        "protein": 20.3,
+        "carbs": 26.3,
+        "fat": 22.4,
+        "fibers": 1.9,
+        "minerals": 1651
+      },
+      "ratings": [1, 2, 3, 4],
+      "tags": ["macaroni", "salad", "ranch"],
+      "Price": 99
+    },
+    "dish3": {
+      "dishID": 3,
+      "name": "Chicken Medley",
+      "components": {
+        "chicken": [
+          "garlic powder", "onion powder",
+          "paprika", "chicken breasts",
+          "olive oil", "butter", "flour",
+          "red onion", "red pepper", "tomatos",
+          "dill paste", "feta cheese"
+        ]
+      },
+      "nutritionValues": {
+        "calories": 349,
+        "protein": 22.9,
+        "carbs": 21.7,
+        "fat": 19,
+        "fibers": 4.4,
+        "minerals": 1125
+      },
+      "ratings": [1, 2, 3, 4],
+      "tags": ["medley", "chicken", "mediterranean"],
+      "Price": 170
+    }
+  },
+  "ratings": [1, 2, 3, 4],
+  "location": [10.687, 95.8876],
+  "offers": {}
+}
