@@ -70,6 +70,59 @@
       "ratings": [1, 2, 3, 4],
       "tags": ["medley", "chicken", "mediterranean"],
       "Price": 170
+    },
+    "dish4": {
+      "dishID": 4,
+      "name": "Sticky Zoodles",
+      "components": {
+        "zoodles": [
+          "zucchini", "olive oil",
+          "onions", "garlic",
+          "sugar", "pepper",
+          "peanuts", "red pepper"
+        ],
+        "sauce": [
+          "soy"
+        ]
+      },
+      "nutritionValues": {
+        "calories": 360,
+        "protein": 13.9,
+        "carbs": 29.6,
+        "fat": 24,
+        "fibers": 8,
+        "minerals": 2660
+      },
+      "ratings": [1, 2, 3, 4],
+      "tags": ["zoodles", "zucchini"],
+      "Price": 110
+    },
+    "dish5": {
+      "dishID": 5,
+      "name": "Sauteed Mushroom",
+      "components": {
+        "Mushrooms": [
+          "butter", "mushroom",
+          "onions", "salt",
+          "milk"
+        ],
+        "Feta eggs": [
+          "eggs", "butter", "onions",
+          "tomatoes", "cheese", "salt",
+          "pepper"
+        ]
+      },
+      "nutritionValues": {
+        "calories": 496,
+        "protein": 23,
+        "carbs": 8,
+        "fat": 43,
+        "fibers": 1.8,
+        "minerals": 1691
+      },
+      "ratings": [1, 2, 3, 4],
+      "tags": ["mushroom", "eggs", "feta eggs"],
+      "Price": 170
     }
   },
   "ratings": [1, 2, 3, 4],
